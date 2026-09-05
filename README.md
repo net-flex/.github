@@ -12,5 +12,14 @@ Internal machine setup and the repo catalogue live elsewhere, in a private repos
 ## Editing the profile
 
 Edit `profile/README.md` and push to `main`; the organisation page picks it up immediately.
-The page renders in a narrow column, so keep tables to four columns or fewer and preview a
-change before relying on it.
+
+It is deliberately a signpost, not a second website — one line on what FlexSense does, where
+to go next, and what to expect from these repositories. Detail belongs on
+[flexsense.co.uk](https://flexsense.co.uk), where it only has to be maintained once.
+
+GitHub strips CSS from READMEs, so spacing comes from centred blocks and `<br>`. Check a
+change through GitHub's own renderer before trusting it:
+
+```sh
+gh api markdown -X POST -f mode=gfm -f text="$(cat profile/README.md)"
+```
