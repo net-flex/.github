@@ -152,10 +152,12 @@ or device data, and a clear outcome to test.
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>Defined local area</b><br><br>A feeder, street, neighbourhood or comparable network boundary.</td>
-<td width="25%" valign="top"><b>Relevant assets</b><br><br>Heat pumps, EVs or other loads with measurable flexibility.</td>
-<td width="25%" valign="top"><b>Minimum useful data</b><br><br>Enough network and building context to test the hypothesis.</td>
-<td width="25%" valign="top"><b>Shared success measure</b><br><br>A technical or operational outcome agreed before the trial.</td>
+<td width="50%" valign="top"><b>Defined local area</b><br><br>A feeder, street, neighbourhood or comparable network boundary.<br>&nbsp;</td>
+<td width="50%" valign="top"><b>Relevant assets</b><br><br>Heat pumps, EVs or other loads with measurable flexibility.<br>&nbsp;</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><b>Minimum useful data</b><br><br>Enough network and building context to test the hypothesis.<br>&nbsp;</td>
+<td width="50%" valign="top"><b>Shared success measure</b><br><br>A technical or operational outcome agreed before the trial.<br>&nbsp;</td>
 </tr>
 </table>
 
