@@ -8,10 +8,6 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/flexsense.co.uk-042550?style=for-the-badge&logoColor=white)](https://flexsense.co.uk) &nbsp; [![Pilots](https://img.shields.io/badge/Discuss_a_pilot-058f8b?style=for-the-badge&logoColor=white)](https://flexsense.co.uk/pilots/)
-
-<br>
-
 `Working prototype` &nbsp;·&nbsp; `Open to low-voltage network field-trial partners`
 
 <br>
